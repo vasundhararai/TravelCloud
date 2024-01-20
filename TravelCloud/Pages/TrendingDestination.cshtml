@@ -1,0 +1,202 @@
+﻿@page
+@model TravelCloud.Pages.TrendingDestinationModel
+@{
+}
+
+<div class="input-group searchpadding">
+    <input type="search" class="form-control rounded text-center" placeholder="Search Holiday by Destination, Theme" aria-label="Search" aria-describedby="search-addon" />
+    <button type="button" class="btn-warning rounded" data-mdb-ripple-init>search</button>
+</div>
+
+
+<div id="carouselExampleControls" class="carousel slide"  data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item ">
+            <img class="d-block w-100" src="~/slider/New-Year-Banner-1920x545.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="~/slider/SOTC-Award-Banner-1920x545.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="~/slider/SOTC-Honeymoon-Holidays-Banner-1920x545.jpg" alt="Third slide">
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<div class="container">
+    <div class="maindestcls">
+    <h1>Trending Indian Destinations</h1>
+    <div>India is a beautiful land of rich diversity, culture and adventures. It is the seventh-largest country in the world, home to some of the most… <a href="">read more</a></div>
+    <div class="row" >
+        <div class="col-md-3">
+            <img src="~/images/andaman.jpg" />
+            <h3 class="text-danger">ANDAMAN</h3>
+            <div><button class="btn btn-light"><a href="AndamanPackage">View More</a></button></div>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/kerala.jpg" />
+            <h3 class="text-danger">KERALA</h3>
+                <div><button class="btn btn-light"><a href= "Kerala" >View More</a></button></div>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/gujarat.jpg" />
+            <h3 class="text-danger">GUJARAT</h3>
+                <div><button class="btn btn-light"><a href = "GujratPackage">View More</a></button></div>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/himachal.jpg" />
+            <h3 class="text-danger">HIMACHAL</h3>
+                <div><button class="btn btn-light"><a href = "HimachalPackage">View More</a></button></div>
+        </div>
+    </div>
+    </div>
+    
+    <div class="maindestcls">
+    <h1>Trending International Destinations</h1>
+    <div>An international holiday not only offers a breath of fresh air but is also a great way to explore different parts of the world and get a new… <a href="">read more</a></div>
+    <div class="row">
+        <div class="col-md-3">
+            <img src="~/images/dubai.jpg" />
+            <h3 class="text-danger">DUBAI</h3>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/japan.jpg" />
+            <h3 class="text-danger">JAPAN</h3>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/south-africa.jpg" />
+            <h3 class="text-danger">SOUTH AFRICA</h3>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/thailand.jpg" />
+            <h3 class="text-danger">THAILAND</h3>
+        </div>
+    </div>
+    </div>
+
+    <div class="maindestcls">
+    <h1>TRAVELCLOUD Specials</h1>   
+    <div class="row">
+        <div class="col-md-3">
+            <img src="~/images/amazingholiday.jpg" />
+            <h4 class="text-danger">AMAZING HOLIDAY</h4>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/india-honeymoon.jpg" />
+            <h4 class="text-danger">INDIA HONEYMOON PACKAGE</h4>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/international-honeymoon.jpg" />
+            <h4 class="text-danger">INTERNATIONAL HONEYMOON PACKAGE</h4>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/buy1get1.jpg"/>
+            <h4 class="text-danger">BUY 1 GET 1 FREE INTERNATIONAL HOLIDAY</h4>
+        </div>        
+    </div>
+    </div>
+   
+    <div class="maindestcls">
+    <div class="row">
+        <div class ="col-md-4">
+            <iframe src="https://www.youtube.com/embed/CxxVpnhnroI" title="Happy Diwali from our family to yours!" frameborder="0" class="imageregsize"></iframe>
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/vistara-banner.jpg" class="imageregsize" />
+        </div>
+        <div class="col-md-4">
+            <iframe src="https://www.youtube.com/embed/IoiifDC-Aek" title="TRAVELCLOUD – You Define Us" frameborder="0" class="imageregsize"></iframe>
+        </div>        
+    </div>
+    </div>
+
+    <div class="maindestcls">
+    <div class="row">
+        <div class="col-12">
+            <img src="~/images/mandai-home-banner.jpg" class="imageregsize"/>
+        </div>
+    </div>
+    </div>
+
+
+    <div class="maindestcls">
+    <h1>Reading Corner</h1>
+    <div class="row">
+            <div class="col-md-4 caption-side-reading">
+                <a href="~/destination.pdf">
+                <img src="~/images/honeymoondestination.jpg" class="img-fluid" /></a>
+            <h5 class="text-danger borderimg">15 Best Honeymoon Destinations In India In May</h5>            
+        </div>
+        
+        <div class="col-md-4 caption-side-reading">
+            <img src="~/images/egypt1.jpg" class="img-fluid"/>
+            <h5 class="text-danger borderimg">Valley Of The Kings Where Pharaohs Meet Their Gods</h5>
+        </div>
+        <div class="col-md-4 caption-side-reading">
+            <img src="~/images/andaman-honeymoon.jpg" class="img-fluid"/>
+            <h5 class="text-danger borderimg">
+                How To Plan A Budget Trip To <br />Andaman</h5>
+        </div>       
+    </div>
+    </div>
+
+    <div class="maindestcls">
+        <div class="row">
+        <h1>Why TRAVELCLOUD</h1>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-header text-center">
+                <img src="~/ytravelcloud/trusted.png" class="img-thumbnail"/>
+                </div>
+                    <div class="card-body text-center"><h5>Trusted Advisor</h5></div>
+                <div class="card-footer borderimg">
+                Over 70 years of expertise with innovation at its core. We pioneered group travel In India & are continuously evolving and investing in leading edge technology for a perfect holiday
+                </div>             
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-header text-center">
+                    <img src="~/ytravelcloud/response1.png" class=" img-thumbnail"/>
+                </div>
+                    <div class="card-body text-center"><h5>Responsive</h5></div>
+                <div class="card-footer borderimg">
+                    Our Holidays are co-created with our customers, ensuring suggestions and feedback are the basis of creating magical holidays
+                <br /><br /><br/>
+                </div>
+            </div>
+        </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-header text-center">
+                        <img src="~/ytravelcloud/memorable.png" class="img-thumbnail"/>
+                    </div>
+                    <div class="card-body text-center"><h5>Memorable <br />Experiences</h5></div>
+                    <div class="card-footer borderimg">
+                        Join the SOTC family - Over 5 lac customers have created their most memorable Experiences with us
+                        <br /><br /><br/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-header text-center">
+                        <img src="~/ytravelcloud/ease.png" class="img-thumbnail"/>
+                    </div>
+                    <div class="card-body text-center"><h5>Ease</h5></div>
+                    <div class="card-footer borderimg">
+                        Choose from a wide range of over a thousand holidays and experiences. Special holidays catering to the cultural diversity of India
+                        <br /><br /><br />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

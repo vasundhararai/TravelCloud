@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelCloud.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelCloud.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\Kerala\\Cochin-3.jpg",
+      "PackagePath": "staticwebassets\\Kerala\\Cochin-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\Kerala\\kerala12.jpg",
+      "PackagePath": "staticwebassets\\Kerala\\kerala12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\Kerala\\thekkady-nearby-places-cover.jpg",
+      "PackagePath": "staticwebassets\\Kerala\\thekkady-nearby-places-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\about-us-new.jpg",
+      "PackagePath": "staticwebassets\\about-us-new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\aboutus\\about-us-new.jpg",
+      "PackagePath": "staticwebassets\\aboutus\\about-us-new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\aboutus\\manifesto.jpg",
+      "PackagePath": "staticwebassets\\aboutus\\manifesto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\andamanpackage\\AndamanHavelock1.jpg",
+      "PackagePath": "staticwebassets\\andamanpackage\\AndamanHavelock1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\andamanpackage\\Andaman_SRP2.jpg",
+      "PackagePath": "staticwebassets\\andamanpackage\\Andaman_SRP2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\andamanpackage\\Andamanscuba.jpg",
+      "PackagePath": "staticwebassets\\andamanpackage\\Andamanscuba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\destination.pdf",
+      "PackagePath": "staticwebassets\\destination.pdf"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\gujaratpackage\\Dwarka1.jpg",
+      "PackagePath": "staticwebassets\\gujaratpackage\\Dwarka1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\gujaratpackage\\Gir.jpg",
+      "PackagePath": "staticwebassets\\gujaratpackage\\Gir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\gujaratpackage\\RannUtsav.jpg",
+      "PackagePath": "staticwebassets\\gujaratpackage\\RannUtsav.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\himachalPackage\\Magical-Himachal-II.jpg",
+      "PackagePath": "staticwebassets\\himachalPackage\\Magical-Himachal-II.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\himachalPackage\\Regenta_place_shimla.jpg",
+      "PackagePath": "staticwebassets\\himachalPackage\\Regenta_place_shimla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\himachalPackage\\dharamshala.jpg",
+      "PackagePath": "staticwebassets\\himachalPackage\\dharamshala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\homepage_sprite.png",
+      "PackagePath": "staticwebassets\\homepage_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\AmazingHoliday.jpg",
+      "PackagePath": "staticwebassets\\images\\AmazingHoliday.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Andaman.jpg",
+      "PackagePath": "staticwebassets\\images\\Andaman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Buy1Get1.jpg",
+      "PackagePath": "staticwebassets\\images\\Buy1Get1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Dubai.jpg",
+      "PackagePath": "staticwebassets\\images\\Dubai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Gujarat.jpg",
+      "PackagePath": "staticwebassets\\images\\Gujarat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Himachal.jpg",
+      "PackagePath": "staticwebassets\\images\\Himachal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\HoneymoonDestination.jpg",
+      "PackagePath": "staticwebassets\\images\\HoneymoonDestination.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\India-Honeymoon.jpg",
+      "PackagePath": "staticwebassets\\images\\India-Honeymoon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\International-Honeymoon.jpg",
+      "PackagePath": "staticwebassets\\images\\International-Honeymoon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Japan.jpg",
+      "PackagePath": "staticwebassets\\images\\Japan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Kerala.jpg",
+      "PackagePath": "staticwebassets\\images\\Kerala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Logo.jpg",
+      "PackagePath": "staticwebassets\\images\\Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Mandai-Home-Banner.jpg",
+      "PackagePath": "staticwebassets\\images\\Mandai-Home-Banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\South-Africa.jpg",
+      "PackagePath": "staticwebassets\\images\\South-Africa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Spiritual.jpg",
+      "PackagePath": "staticwebassets\\images\\Spiritual.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Thailand.jpg",
+      "PackagePath": "staticwebassets\\images\\Thailand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\Vistara-Banner.jpg",
+      "PackagePath": "staticwebassets\\images\\Vistara-Banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\andaman-honeymoon.jpg",
+      "PackagePath": "staticwebassets\\images\\andaman-honeymoon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\images\\egypt1.jpg",
+      "PackagePath": "staticwebassets\\images\\egypt1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\slider\\New-Year-Banner-1920x545.jpg",
+      "PackagePath": "staticwebassets\\slider\\New-Year-Banner-1920x545.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\slider\\SOTC-Award-Banner-1920x545.jpg",
+      "PackagePath": "staticwebassets\\slider\\SOTC-Award-Banner-1920x545.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\slider\\SOTC-Honeymoon-Holidays-Banner-1920x545.jpg",
+      "PackagePath": "staticwebassets\\slider\\SOTC-Honeymoon-Holidays-Banner-1920x545.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\ytravelcloud\\Ease.png",
+      "PackagePath": "staticwebassets\\ytravelcloud\\Ease.png"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\ytravelcloud\\Memorable.png",
+      "PackagePath": "staticwebassets\\ytravelcloud\\Memorable.png"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\ytravelcloud\\Response1.png",
+      "PackagePath": "staticwebassets\\ytravelcloud\\Response1.png"
+    },
+    {
+      "Id": "C:\\Users\\raiva\\source\\repos\\TravelCloud\\TravelCloud\\wwwroot\\ytravelcloud\\Trusted.png",
+      "PackagePath": "staticwebassets\\ytravelcloud\\Trusted.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TravelCloud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TravelCloud.props",
+      "PackagePath": "build\\TravelCloud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelCloud.props",
+      "PackagePath": "buildMultiTargeting\\TravelCloud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TravelCloud.props",
+      "PackagePath": "buildTransitive\\TravelCloud.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

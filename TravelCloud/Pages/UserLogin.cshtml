@@ -1,0 +1,46 @@
+﻿@page
+@model TravelCloud.Pages.UserLoginModel
+@{
+}
+<h2 class="text-primary">
+    Login to TRAVELCloud
+</h2>
+<br />
+<div class="container border">
+    <div class="row">
+        <div class="col-md-3">
+            @Html.Label("username","Your Email Address/Mobile Number",new { @class = "fw-bold,form-label"})
+        </div>
+        <div class="col-md-6">
+            <div class="input-group">
+                <span class="input-group-text"><i class="bi bi-person-circle"></i></span>
+                 @Html.TextBox("txt_username","",new{ @class = "form-control",placeholder="Email ID/Mobile Number"})
+            </div>
+        </div>
+    </div>
+    
+    <br />
+
+    <div class="row">
+        <div class="col-md-3">
+            @Html.Label("password", "Password", new { @class = "fw-bold,control-label" })
+        </div>
+        <div class="col-md-6">
+            <div class="input-group">
+                <span class="input-group-text"><i class="bi bi-0-circle-fill"></i></span>
+                @Html.Password("password", "", new { @class = "form-control", placeholder = "Password" })
+            </div>        
+        </div>
+   </div>
+
+    <div class="form-group">
+        <label class="col-md-4 form-label"></label>
+        <div class="col-md-4">
+           <button type="submit" class="btn btn-danger txt-center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSUBMIT <span></span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</button>
+        </div>
+    </div>
+
+    <div>
+        <p class="text-wrap">Don't have an account?<a href="#" class="text-wrap"> Sign Up</a></p>
+    </div>
+   </div>

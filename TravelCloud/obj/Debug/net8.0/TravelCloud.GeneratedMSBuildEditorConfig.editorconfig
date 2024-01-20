@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TravelCloud
+build_property.RootNamespace = TravelCloud
+build_property.ProjectDir = C:\Users\raiva\source\repos\TravelCloud\TravelCloud\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\raiva\source\repos\TravelCloud\TravelCloud
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/AndamanPackage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5kYW1hblBhY2thZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/GujratPackage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3VqcmF0UGFja2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/HimachalPackage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGltYWNoYWxQYWNrYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/Kerala.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2VyYWxhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/TrendingDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmRpbmdEZXN0aW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/UserLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raiva/source/repos/TravelCloud/TravelCloud/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ggp4gn1nm7
